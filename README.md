@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi stranger... I'm Jony 
 
-<!--
-**jonyalanoca/jonyalanoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<div style="color:blue" > <h2>hola jonathan</h2></div>
+
+<div align="left">
+  <a href="https://github.com/jonyalanoca">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonyalanoca&layout=compact&langs_count=7&bg_color=1A1B27&text_color=FFFFFF&title_color=2F80EC"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonyalanoca&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1B27&text_color=FFFFFF&title_color=2F80EC"/>
+  
+</div>
