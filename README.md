@@ -1,4 +1,6 @@
-### <strong>Hola extraño👋 Soy Jonathan, bienvenido a mi GitHub😺</strong>
+### <strong>Hola extraño <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
+   
+Soy Jonathan, bienvenido a mi GitHub😺</strong>
 
 
 - 🎓 Soy estudiante de la UTN.
