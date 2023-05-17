@@ -36,5 +36,5 @@ Soy Jonathan, bienvenido a mi GitHub😺</strong>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonyalanoca&layout=compact&langs_count=7&bg_color=1A1B27&text_color=FFFFFF&title_color=2F80EC"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonyalanoca&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1B27&text_color=FFFFFF&title_color=2F80EC"/>
   
-
+![Snake animation](https://github.com/jonyalanoca/jonyalanoca/blob/output/github-contribution-grid-snake.svg)
 </div>
